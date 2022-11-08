@@ -13,7 +13,6 @@ const App = () => {
         <Redirect to='/'/>
       </Switch>
     </Router>
-    
   );
 }
 
